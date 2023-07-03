@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Serhiy
 - 👀 I’m interested in Java & Angular
-- 🌱 I’m currently learning Rust & C
+- 🌱 I’m currently learning Rust & Flutter
 - 📫 My email is mrlanu@gmail.com
 
 <!---
